@@ -1,0 +1,14 @@
+
+
+Given an array arr[] of integers and an integer diff, the task is to partition the array into 2 subsets such that the difference between the 2 subsets is equal to the given difference.
+Count all such subsets partition and output the result.
+
+
+Example 1:
+
+Input: N = 4, arr[] = {1,1,2,3}
+       diff=1
+Output: 3
+Explanation: {{1(index-0),3}, {1(index-1),2}}, {{1(index-1),3}, {1(index-0),2}}, {{1,1,2},{3}}
+ 
+https://www.youtube.com/watch?v=ot_XBHyqpFc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=11

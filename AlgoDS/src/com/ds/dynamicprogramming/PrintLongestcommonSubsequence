@@ -1,0 +1,13 @@
+https://www.geeksforgeeks.org/printing-longest-common-subsequence/
+
+Given two strings s1 and s2, write a function that will find the longest subsequence present in both of them subsequence is sequence of the elements which may not be in continous but should be in same relative order
+Example
+INPUT
+s1 = “abcde”
+s2 = “bdgek”
+
+OUTPUT
+LCS is “bde”
+
+ 
+https://www.youtube.com/watch?v=x5hQvnUcjiM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=23
